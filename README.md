@@ -104,5 +104,5 @@ This bar graph breaks down total sales by **Outlet Location Type** (Tier 1, Tier
 
 <h2>🖼️ Dashboard Preview</h2>
 
-<a href = "https://github.com/Vinit-joshi2/Blinkit-DashBoard/blob/main/Blinkit2.pdf">Spotify DashBoard</a>
+<a href = "https://github.com/Vinit-joshi2/Blinkit-DashBoard/blob/main/Blinkit2.pdf">Blinkit DashBoard</a>
 
