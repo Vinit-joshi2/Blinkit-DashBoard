@@ -93,13 +93,10 @@ This bar graph breaks down total sales by **Outlet Location Type** (Tier 1, Tier
   - Low Fat: **$220K**
   - Regular Fat: **$120K**
 
+
 #### 📊 Key Insights:
 - **Low Fat items** consistently outperform **Regular Fat items** in all outlet locations, indicating a stronger consumer preference for healthier options across all store tiers.
-- **Tier 3** outlets generate the highest sales for both fat content categories. This suggests that stores located in Tier 3 locations may have larger foot traffic, leading to higher sales volumes.
-- **Tier 1** and **Tier 2** locations show a lower sales figure, especially for Regular Fat items, which could imply that consumers in these areas are more health-conscious or there may be better availability of Low Fat products.
-  
-#### 💡 Interpretation:
-This chart can be useful for product stocking and promotional strategies, as businesses could focus on increasing the availability of Low Fat products, especially in Tier 3 locations where they perform best. Additionally, marketing campaigns promoting Low Fat options may yield better results across all outlet types.
-
+- **Tier 3** outlets generate the highest sales for both fat content categories. This suggests that stores located in Tier 3 locations may have larger  traffic, leading to higher sales volumes.
+- **Tier 1** and **Tier 2** locations show a lower sales figure, especially for Regular Fat items, which could imply that consumers in these areas are more health-conscious.
 
 
