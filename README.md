@@ -100,3 +100,9 @@ This bar graph breaks down total sales by **Outlet Location Type** (Tier 1, Tier
 - **Tier 1** and **Tier 2** locations show a lower sales figure, especially for Regular Fat items, which could imply that consumers in these areas are more health-conscious.
 
 
+
+
+<h2>🖼️ Dashboard Preview</h2>
+
+<a href = "https://github.com/Vinit-joshi2/Blinkit-DashBoard/blob/main/Blinkit2.pdf">Spotify DashBoard</a>
+
