@@ -5,7 +5,7 @@
 The **Blinkit Dashboard** project is a data-driven analysis of sales and product-level performance across Blinkit retail outlets.The dashboard aims to uncover key business insights, customer behavior patterns, and outlet performance metrics. 
 
 
-![Spotify Logo](https://github.com/Vinit-joshi2/Blinkit-DashBoard/blob/main/Blinkit%20logo.jpeg)
+![Spotify Logo](https://github.com/Vinit-joshi2/Blinkit-DashBoard/blob/main/images.jpeg)
 
 
 This project was built to  understanding:
