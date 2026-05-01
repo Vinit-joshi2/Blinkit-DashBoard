@@ -1,5 +1,7 @@
 # Blinkit-Dashboard
 
+
+
 ## 📝 Project Summary
 
 The **Blinkit Dashboard** project is a data-driven analysis of sales and product-level performance across Blinkit retail outlets.The dashboard aims to uncover key business insights, customer behavior patterns, and outlet performance metrics. 
